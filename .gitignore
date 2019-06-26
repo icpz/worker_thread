@@ -2,3 +2,7 @@ build/
 
 *.[oa]
 *.sw[op]
+
+.idea/
+cmake-build-*/
+
